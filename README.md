@@ -2,6 +2,8 @@
 
 A blog on the journey of Software Foundations.
 
+[Today](./2026-04-01.md)
+
 ## About
 
 This is a blog! ☺
