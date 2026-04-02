@@ -21,3 +21,8 @@ Part of the "Behavior" and "Domain" will be documentated in this blog to explain
 - [Logical Foundations](https://github.com/agramirez/logical-foundations)
 - [The Kitchen Sink](https://github.com/agramirez/the-kitchen-sink)
 - [Agentic](https://github.com/agramirez/agentic)
+
+> NOTE: Also, I just realized that the [Volume 3 book of Software Foundations](https://softwarefoundations.cis.upenn.edu/vfa-current/Preface.html) deals with the processes and methods used for formal software verification...so I have a LONG way to go before I'm ready to start formally verifying software.
+
+> NOTE: After reading the preface of the [Verified Functional Algorithms](https://softwarefoundations.cis.upenn.edu/vfa-current/Preface.html) I noticed it requested that the solutions to the exerises are not published on publicly searchable websites...so I've encrypted all of my solutions in order to comply.  Passwords will be provided upon request.
+
