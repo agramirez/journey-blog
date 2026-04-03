@@ -4,8 +4,6 @@ A blog on the journey of Software Foundations.
 
 [Today](./2026-04-02/A_Detour_II.md)
 
-<iframe src="./2026-04-03/intro.md" width="max" height="400"></iframe>
-
 ## About
 
 This is a blog! ☺
