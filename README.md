@@ -2,7 +2,7 @@
 
 A blog on the journey of Software Foundations.
 
-[Today](./2026-04-01.md)
+[Today](./2026-04-02/A_Detour_II.md)
 
 ## About
 
@@ -26,3 +26,8 @@ Part of the "Behavior" and "Domain" will be documentated in this blog to explain
 
 > NOTE: After reading the preface of the [Verified Functional Algorithms](https://softwarefoundations.cis.upenn.edu/vfa-current/Preface.html) I noticed it requested that the solutions to the exerises are not published on publicly searchable websites...so I've encrypted all of my solutions in order to comply.  Passwords will be provided upon request.
 
+## Days
+
+- April 2026
+    * [Wednesday, April 1st, 2026](./2026-04-01/2026-04-01.md)
+    * [Thursday, April 2nd, 2026](./2026-04-02/A_Detour_II.md)
