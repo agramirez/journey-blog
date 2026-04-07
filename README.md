@@ -2,7 +2,7 @@
 
 A blog on the journey of Software Foundations.
 
-[Today](./2026-04-05/intro.md)
+[Today](./2026-04-07/intro.md)
 
 ## About
 
@@ -29,6 +29,8 @@ Part of the "Behavior" and "Domain" will be documentated in this blog to explain
 ## Days
 
 - April 2026
+    * [Tuesday, April 7th, 2026](./2026-04-07/intro.md)
+    * [Monday, April 6th, 2026](./2026-04-06/intro.md)
     * [Sunday, April 5th, 2026](./2026-04-05/intro.md)
     * [Saturday, April 4th, 2026](./2026-04-04/intro.md)
     * [Friday, April 3rd, 2026](./2026-04-03/intro.md)
